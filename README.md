@@ -4,7 +4,7 @@
 
 This repository contains the "producer", a .NET 8.0 class library that references some NuGet components with known vulnerabilities. This is intended to be packaged as a NuGet .nupkg file and subsequently referenced by the "consumer" application.
 
-The other part of this example can be found in the [DotNetInnerSource-Consumer](https://github.com/jnewman-sonatype/DotNetInnerSource-Consumer) repository.
+The second part of this example can be found in the [DotNetInnerSource-Consumer](https://github.com/jnewman-sonatype/DotNetInnerSource-Consumer) repository.
 
 Note: Pre-built CycloneDX SBOMs and NuGet Packages are available in the [DotNetInnerSource](https://github.com/jnewman-sonatype/DotNetInnerSource) repository and can be used to avoid the need to build the two parts of this example.
 

@@ -6,7 +6,7 @@ This repository contains the "producer", a .NET 8.0 class library that reference
 
 The second part of this example can be found in the [DotNetInnerSource-Consumer](https://github.com/jnewman-sonatype/DotNetInnerSource-Consumer) repository.
 
-Note: Pre-built CycloneDX SBOMs and NuGet Packages are available in the [DotNetInnerSource](https://github.com/jnewman-sonatype/DotNetInnerSource) repository and can be used to avoid the need to build the two parts of this example.
+Note: Pre-built CycloneDX SBOMs and NuGet Package(s) are available in the [DotNetInnerSource](https://github.com/jnewman-sonatype/DotNetInnerSource) repository and can be used to avoid the need to build the two parts of this example.
 
 ## Building Notes
 Test builds of this repo have been performed with Microsoft Visual Studio 2022 (Community Edition)
